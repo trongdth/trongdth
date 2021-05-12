@@ -38,9 +38,11 @@
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-```
-[![trophy](https://github-profile-trophy.vercel.app/?username=trongdth)](https://github.com/trongdth/github-profile-trophy)
-```
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=trongdth&column=3&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
 <br>
 
 
