@@ -41,6 +41,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@trongdth&compact=True"/>
 </a>
+
+https://github-profile-trophy.vercel.app/?username=trongdth&column=3&margin-w=15&margin-h=15
+
 <br>
 
 
