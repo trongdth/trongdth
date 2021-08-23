@@ -51,11 +51,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement Midtrans payment gateway in Flutter by using Snap method](https://blog.heyday.xyz/implement-midtrans-payment-gateway-in-flutter-by-using-snap-method-ac8545085989?source=rss-899b72710946------2)
-- [How do I become a better engineer, indeed?](https://blog.heyday.xyz/how-do-i-become-a-better-engineer-indeed-a76fd96b9641?source=rss-899b72710946------2)
-- [Deploy a complex smart contract easily and quickly with Remix IDE](https://blog.heyday.xyz/deploy-a-complex-smart-contract-easily-and-quickly-with-remix-ide-46a8d1ff8b15?source=rss-899b72710946------2)
-- [Go microservice: API gateways pattern](https://blog.heyday.xyz/go-microservice-api-gateways-pattern-185c2055ea00?source=rss-899b72710946------2)
-- [How to do test your Flutter app](https://blog.heyday.xyz/how-to-do-test-your-flutter-app-e56d3b78beeb?source=rss-899b72710946------2)
+- [Implement Midtrans payment gateway in Flutter by using Snap method](https://trongdth.medium.com/implement-midtrans-payment-gateway-in-flutter-by-using-snap-method-ac8545085989?source=rss-899b72710946------2)
+- [How do I become a better engineer, indeed?](https://trongdth.medium.com/how-do-i-become-a-better-engineer-indeed-a76fd96b9641?source=rss-899b72710946------2)
+- [Deploy a complex smart contract easily and quickly with Remix IDE](https://trongdth.medium.com/deploy-a-complex-smart-contract-easily-and-quickly-with-remix-ide-46a8d1ff8b15?source=rss-899b72710946------2)
+- [Go microservice: API gateways pattern](https://trongdth.medium.com/go-microservice-api-gateways-pattern-185c2055ea00?source=rss-899b72710946------2)
+- [How to do test your Flutter app](https://trongdth.medium.com/how-to-do-test-your-flutter-app-e56d3b78beeb?source=rss-899b72710946------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
