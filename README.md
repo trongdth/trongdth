@@ -12,7 +12,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Head of Engineering @ Tokoin
+- 🔭 I’m currently working on Vice President of Engineering @ Tokoin
 
 - 🌱 I’m currently learning Business management 
 
