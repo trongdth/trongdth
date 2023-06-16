@@ -1,8 +1,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=trongdth.trongdth)
-
 </p>
 <div size='20px'> Hi! My name is Trong Dinh. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -18,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on Entrepreneur 
 
-- 💬 Talk to me about I'm a peaceful person who falls in love with blockchain technology. I always believe open source is the best way to make the application better. That's why all my projects I made are available on Github. 
+- 💬 Talk to me about blockchain technology. I always believe open source is the best way to create the best software.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/trongdth?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -57,10 +55,5 @@
 - [Go microservice: API gateways pattern](https://trongdth.medium.com/go-microservice-api-gateways-pattern-185c2055ea00?source=rss-899b72710946------2)
 - [How to do test your Flutter app](https://trongdth.medium.com/how-to-do-test-your-flutter-app-e56d3b78beeb?source=rss-899b72710946------2)
 <!-- BLOG-POST-LIST:END -->
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
 
 <br>
