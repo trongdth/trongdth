@@ -20,7 +20,7 @@
 <h2> Certificate </h2>
 
 
-<a href= https://www.coursera.org/account/accomplishments/certificate/NEV4CT9NZC6P > <img width ='64px' src ='https://www.coursera.org/account/accomplishments/certificate/NEV4CT9NZC6P'> </a>
+<a href= https://www.coursera.org/account/accomplishments/certificate/NEV4CT9NZC6P > <img width ='256px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P.jpeg'> </a>
 
 <h2> Skills </h2>
 <a href= https://github.com/trongdth?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
