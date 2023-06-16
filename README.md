@@ -17,6 +17,10 @@
 
 - 💬 Talk to me about blockchain technology. I always believe open source is the best way to create the best software.
 
+<h2> Certificate </h2>
+
+https://www.coursera.org/account/accomplishments/certificate/NEV4CT9NZC6P
+
 <h2> Skills </h2>
 <a href= https://github.com/trongdth?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 &#160;
