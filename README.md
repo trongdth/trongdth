@@ -20,11 +20,16 @@
 <h2> Certificate </h2>
 
 
-<a href= https://www.coursera.org/account/accomplishments/verify/NEV4CT9NZC6P > <img width ='350px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P.jpeg'> </a>
+<a href= https://www.coursera.org/account/accomplishments/verify/NEV4CT9NZC6P > <img width ='320px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P.jpeg'> </a>
 
-<a href= https://www.coursera.org/account/accomplishments/verify/V33RXE3KG86U > <img width ='350px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U.jpeg'> </a>
+<a href= https://www.coursera.org/account/accomplishments/verify/V33RXE3KG86U > <img width ='320px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U.jpeg'> </a>
 
-<a href= https://www.coursera.org/account/accomplishments/verify/YY33NJAKYLKD > <img width ='350px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD.jpeg'> </a>
+<a href= https://www.coursera.org/account/accomplishments/verify/YY33NJAKYLKD > <img width ='320px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD.jpeg'> </a>
+
+<a href= https://www.coursera.org/account/accomplishments/verify/PZTPKEWNYGYY > <img width ='320px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PZTPKEWNYGYY/CERTIFICATE_LANDING_PAGE~PZTPKEWNYGYY.jpeg'> </a>
+
+<a href= https://www.coursera.org/account/accomplishments/verify/NSGVSSVBMYUC > <img width ='320px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NSGVSSVBMYUC/CERTIFICATE_LANDING_PAGE~NSGVSSVBMYUC.jpeg'> </a>
+
 
 <h2> Skills </h2>
 <a href= https://github.com/trongdth?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
