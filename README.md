@@ -19,16 +19,15 @@
 
 <h2> Certificate </h2>
 
+<a href= https://www.coursera.org/account/accomplishments/verify/NEV4CT9NZC6P > <img width ='480px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P.jpeg'> </a>
 
-<a href= https://www.coursera.org/account/accomplishments/verify/NEV4CT9NZC6P > <img width ='320px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P.jpeg'> </a>
+<a href= https://www.coursera.org/account/accomplishments/verify/V33RXE3KG86U > <img width ='480px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U.jpeg'> </a>
 
-<a href= https://www.coursera.org/account/accomplishments/verify/V33RXE3KG86U > <img width ='320px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U.jpeg'> </a>
+<a href= https://www.coursera.org/account/accomplishments/verify/YY33NJAKYLKD > <img width ='480px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD.jpeg'> </a>
 
-<a href= https://www.coursera.org/account/accomplishments/verify/YY33NJAKYLKD > <img width ='320px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD.jpeg'> </a>
+<a href= https://www.coursera.org/account/accomplishments/verify/PZTPKEWNYGYY > <img width ='480px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PZTPKEWNYGYY/CERTIFICATE_LANDING_PAGE~PZTPKEWNYGYY.jpeg'> </a>
 
-<a href= https://www.coursera.org/account/accomplishments/verify/PZTPKEWNYGYY > <img width ='320px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PZTPKEWNYGYY/CERTIFICATE_LANDING_PAGE~PZTPKEWNYGYY.jpeg'> </a>
-
-<a href= https://www.coursera.org/account/accomplishments/verify/NSGVSSVBMYUC > <img width ='320px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NSGVSSVBMYUC/CERTIFICATE_LANDING_PAGE~NSGVSSVBMYUC.jpeg'> </a>
+<a href= https://www.coursera.org/account/accomplishments/verify/NSGVSSVBMYUC > <img width ='480px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NSGVSSVBMYUC/CERTIFICATE_LANDING_PAGE~NSGVSSVBMYUC.jpeg'> </a>
 
 
 <h2> Skills </h2>
@@ -67,6 +66,9 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 ![Metrics](https://metrics.lecoq.io/trongdth?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+
+<h2> Hire me </h2>
+> Draft an email to trongdth@gmail.com
 
 <h2> My Blog Posts </h2>
 
