@@ -19,7 +19,8 @@
 
 <h2> Certificate </h2>
 
-https://www.coursera.org/account/accomplishments/certificate/NEV4CT9NZC6P
+
+<a href= https://www.coursera.org/account/accomplishments/certificate/NEV4CT9NZC6P > <img width ='64px' src ='https://www.coursera.org/account/accomplishments/certificate/NEV4CT9NZC6P'> </a>
 
 <h2> Skills </h2>
 <a href= https://github.com/trongdth?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
