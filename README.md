@@ -17,33 +17,6 @@
 
 - 💬 Talk to me about blockchain technology. I always believe open source is the best way to create the best software.
 
-<h2> Certificate </h2>
-
-<div>
-
-  <div style="display: flex; flex-direction: row;" >
-    <div style="flex: 1 1 auto; padding: 10px; margin: 10px; text-align: center;">
-      <a href= https://www.coursera.org/account/accomplishments/verify/NEV4CT9NZC6P> 
-        <img width="100%" src='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P.jpeg'> 
-      </a>
-    </div>
-  </div>
-  
-  <div style="display: flex; flex-direction: row;">
-    <div style="flex: 1 1 auto; padding: 10px; margin: 10px; text-align: center;">
-      <a href= https://www.coursera.org/account/accomplishments/verify/V33RXE3KG86U > <img width="100%" src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U.jpeg'> </a>
-    </div>
-  </div>
-  
-</div>
-
-<a href= https://www.coursera.org/account/accomplishments/verify/YY33NJAKYLKD > <img align= 'center'  width ='480px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD.jpeg'> </a>
-
-<a href= https://www.coursera.org/account/accomplishments/verify/PZTPKEWNYGYY > <img align= 'center'  width ='480px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PZTPKEWNYGYY/CERTIFICATE_LANDING_PAGE~PZTPKEWNYGYY.jpeg'> </a>
-
-<a href= https://www.coursera.org/account/accomplishments/verify/NSGVSSVBMYUC > <img align= 'center'  width ='480px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NSGVSSVBMYUC/CERTIFICATE_LANDING_PAGE~NSGVSSVBMYUC.jpeg'> </a>
-
-
 <h2> Skills </h2>
 <a href= https://github.com/trongdth?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 &#160;
@@ -94,3 +67,21 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br>
+<h2> Certificate </h2>
+
+<div>
+
+  <a href= https://www.coursera.org/account/accomplishments/verify/NEV4CT9NZC6P> 
+        <img width="100%" src='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P.jpeg'> 
+      </a>
+  
+  <a href= https://www.coursera.org/account/accomplishments/verify/V33RXE3KG86U > <img width="100%" src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U.jpeg'> </a>
+
+  <a href= https://www.coursera.org/account/accomplishments/verify/YY33NJAKYLKD > <img width="100%"  src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD.jpeg'> </a>
+
+<a href= https://www.coursera.org/account/accomplishments/verify/PZTPKEWNYGYY > <img width="100%"  src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PZTPKEWNYGYY/CERTIFICATE_LANDING_PAGE~PZTPKEWNYGYY.jpeg'> </a>
+
+<a href= https://www.coursera.org/account/accomplishments/verify/NSGVSSVBMYUC > <img width="100%"  src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NSGVSSVBMYUC/CERTIFICATE_LANDING_PAGE~NSGVSSVBMYUC.jpeg'> </a>
+  
+</div>
+
