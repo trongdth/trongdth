@@ -19,9 +19,23 @@
 
 <h2> Certificate </h2>
 
-<a href= https://www.coursera.org/account/accomplishments/verify/NEV4CT9NZC6P > <img align= 'center'  width ='480px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P.jpeg'> </a>
+<div padding="20px">
 
-<a href= https://www.coursera.org/account/accomplishments/verify/V33RXE3KG86U > <img align= 'center'  width ='480px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U.jpeg'> </a>
+  <div width="50%" padding="10px" >
+    <div>
+      <a href= https://www.coursera.org/account/accomplishments/verify/NEV4CT9NZC6P> 
+        <img src='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P/CERTIFICATE_LANDING_PAGE~NEV4CT9NZC6P.jpeg'> 
+      </a>
+    </div>
+  </div>
+  
+  <div width="50%" padding="10px">
+    <div>
+      <a href= https://www.coursera.org/account/accomplishments/verify/V33RXE3KG86U > <img align= 'center'  width ='480px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U/CERTIFICATE_LANDING_PAGE~V33RXE3KG86U.jpeg'> </a>
+    </div>
+  </div>
+  
+</div>
 
 <a href= https://www.coursera.org/account/accomplishments/verify/YY33NJAKYLKD > <img align= 'center'  width ='480px' src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD/CERTIFICATE_LANDING_PAGE~YY33NJAKYLKD.jpeg'> </a>
 
