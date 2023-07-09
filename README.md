@@ -82,6 +82,10 @@
 <a href= https://www.coursera.org/account/accomplishments/verify/PZTPKEWNYGYY > <img width="100%"  src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PZTPKEWNYGYY/CERTIFICATE_LANDING_PAGE~PZTPKEWNYGYY.jpeg'> </a>
 
 <a href= https://www.coursera.org/account/accomplishments/verify/NSGVSSVBMYUC > <img width="100%"  src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NSGVSSVBMYUC/CERTIFICATE_LANDING_PAGE~NSGVSSVBMYUC.jpeg'> </a>
+
+
+<a href= https://www.coursera.org/account/accomplishments/verify/SFY58W3VFDT7 > <img width="100%"  src ='https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SFY58W3VFDT7/CERTIFICATE_LANDING_PAGE~SFY58W3VFDT7.jpeg'> </a>
+
   
 </div>
 
