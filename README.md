@@ -9,11 +9,11 @@
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Vice President of Engineering @ Tokoin
+- 🔭 I’m currently working as the CTO at Nexum Labs.
 
-- 🌱 I’m currently learning Business management 
+- 🌱 I’m currently learning Business management.
 
-- 👯 I’m looking to collaborate on Entrepreneur 
+- 👯 I’m looking to collaborate on Entrepreneur.
 
 - 💬 Talk to me about blockchain technology. I always believe open source is the best way to create the best software.
 
